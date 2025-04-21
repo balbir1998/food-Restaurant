@@ -41,4 +41,10 @@
     .top-banner {
         padding: 10.375rem 0 9.375rem;
     }
+
+    /* story section */
+    .story-section {
+        height: auto;
+        padding: 3rem 0;
+    }
 }
