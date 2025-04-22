@@ -362,3 +362,10 @@ p {
 .testimonial-section .carousel-indicators button.active {
     opacity: 1;
 }
+
+/* --------------------- faq section --------------------- */
+.faq h4 span {
+    color: var(--primary-color);
+    font-size: 1.875rem;
+    margin-right: 0.3175rem;
+}
